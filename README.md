@@ -22,19 +22,15 @@ Snake Game is a classic arcade game that challenges players to control a snake a
 - Press the Enter key to restart the game after a game over.
 
 ## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+<img width="670" alt="Screenshot 2024-05-30 121207" src="https://github.com/elad7290/SnakeFeedr/assets/73171201/38afa8cb-9bce-432c-9970-d6a0ea8db13a">
+<img width="670" alt="Screenshot 2024-05-30 121113" src="https://github.com/elad7290/SnakeFeedr/assets/73171201/0683920b-367f-4369-8c7c-9b5d403757c9">
+
+)
 
 ## Credits
-This Snake Game project was developed as part of a Java programming course and is maintained by [Your Name].
-
-## License
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
+This Snake Game project was developed as part of a Java programming course and is maintained by elad
 
 ## Feedback and Contributions
 We welcome feedback, bug reports, and contributions from the community. If you encounter any issues or have suggestions for improvements, please submit a GitHub issue or pull request.
-
-## Support
-For support or inquiries, please contact [Your Email Address].
 
 Enjoy playing Snake Game!
